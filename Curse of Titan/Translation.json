@@ -9,7 +9,7 @@
 	"class"            : "Class:",
 	"climb"            : "Climb:",
 	"creaturestats"    : "Creature Stats",
-    "damage-two"       : "Damage:",
+      "damage-two"       : "Damage:",
 	"damage"           : "Damage",
 	"evasion"          : "Evasion:",
 	"evasion-p"        : "Evasion",
@@ -36,4 +36,6 @@
 	"upondamage"       : "Upon Damage",
     "pierce"           : "Pierce:",
     "injury"           : "Injury:"
+
+
 }
