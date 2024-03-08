@@ -35,7 +35,8 @@
 	"titan"            : "Titan:",
 	"upondamage"       : "Upon Damage",
     "pierce"           : "Pierce:",
-    "injury"           : "Injury:"
+    "injury"           : "Injury:",
+	"settlement_level" : "Settlement Level"
 
 
 }

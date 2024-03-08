@@ -263,6 +263,16 @@ font-family: sans-serif;
     opacity: 0;
 }
 
+
+
+.sheet-dice-row .sheet-square.sheet-active {
+    display: none;
+} 
+
+.oogabooga {
+    background-color: orange;
+}
+
 /* By default, .contentToToggle is shown, but you can explicitly set it if needed */
 .contentToToggle {
     opacity: 1; /* or "flex", "inline-block", etc., depending on your layout */
